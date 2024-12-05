@@ -1,4 +1,4 @@
-# Grocery List #
+# Outdated #
 
 CS50's Introduction to Programming with Python Problem Set 3 on Exceptions
 Outdated problem.
