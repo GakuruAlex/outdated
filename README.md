@@ -43,14 +43,6 @@ Install requirements
 ```bash
     python3 outdated.py
 ```
-
-## Run tests ##
-
-```bash
-    pytest -v
-```
-
-
 # Author #
 
 [Alex Gakuru](https://github.com/GakuruAlex)
